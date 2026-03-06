@@ -2,12 +2,12 @@
 
 **Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
-[![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/nabil-anis/worldmonitor-by-nbl?style=social)](https://github.com/nabil-anis/worldmonitor-by-nbl/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/nabil-anis/worldmonitor-by-nbl?style=social)](https://github.com/nabil-anis/worldmonitor-by-nbl/network/members)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Last commit](https://img.shields.io/github/last-commit/koala73/worldmonitor)](https://github.com/koala73/worldmonitor/commits/main)
-[![Latest release](https://img.shields.io/github/v/release/koala73/worldmonitor?style=flat)](https://github.com/koala73/worldmonitor/releases/latest)
+[![Last commit](https://img.shields.io/github/last-commit/nabil-anis/worldmonitor-by-nbl)](https://github.com/nabil-anis/worldmonitor-by-nbl/commits/main)
+[![Latest release](https://img.shields.io/github/v/release/nabil-anis/worldmonitor-by-nbl?style=flat)](https://github.com/nabil-anis/worldmonitor-by-nbl/releases/latest)
 
 <p align="center">
   <a href="https://worldmonitor.app"><img src="https://img.shields.io/badge/Web_App-worldmonitor.app-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web App"></a>&nbsp;
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="./docs/DOCUMENTATION.md"><strong>Full Documentation</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/koala73/worldmonitor/releases/latest"><strong>All Releases</strong></a>
+  <a href="https://github.com/nabil-anis/worldmonitor-by-nbl/releases/latest"><strong>All Releases</strong></a>
 </p>
 
 ![World Monitor Dashboard](docs/images/new-world-monitor.png)
@@ -300,7 +300,7 @@ The test suite includes **30 test files** with **554 individual test cases** acr
 
 ```bash
 # Clone and run
-git clone https://github.com/koala73/worldmonitor.git
+git clone https://github.com/nabil-anis/worldmonitor-by-nbl.git
 cd worldmonitor
 npm install
 vercel dev       # Runs frontend + all 60+ API edge functions
@@ -511,7 +511,7 @@ GNU Affero General Public License v3.0 (AGPL-3.0) — see [LICENSE](LICENSE) for
 
 ## Contributors
 
-<a href="https://github.com/koala73/worldmonitor/graphs/contributors">
+<a href="https://github.com/nabil-anis/worldmonitor-by-nbl/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=koala73/worldmonitor" />
 </a>
 
